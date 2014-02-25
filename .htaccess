@@ -1,0 +1,6 @@
+AuthUserFile /home/srob/.htpasswd
+AuthName "auth"
+AuthType Basic
+Require valid-user
+
+Options -Indexes

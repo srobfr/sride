@@ -1,0 +1,21 @@
+=== 30/09/2011 16:32:28 Fix bugs
+-> Utiliser les classes Folder et File
+-> Gérer le changement d'onglet sans sauvegarder
+-> Conserver les dossiers ouverts lors du rafraichissement de la fileList
+-> Retour à la ligne auto
+
+=== 29/09/2011 18:20:32 Ajouter la possiblité de créer, supprimer, déplacer des fichiers
+-> En cours de dev...
+
+=== 30/09/2011 17:46:23 Revoir le css de la barre d'onglets...
+
+=== 29/09/2011 18:20:32 Créer un module de versioning (SVN)
+
+=== 29/09/2011 18:20:32 Ajouter un système de traductions
+
+=== 29/09/2011 18:22:33 Créer un script d'installation automatique
+
+=== 29/09/2011 18:23:14 Ajouter une coloration syntaxique adaptée au contenu
+-> Gérer l'ouverture de fichiers images
+
+=== 30/09/2011 17:45:37 Gérer le multiuser...

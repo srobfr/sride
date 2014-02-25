@@ -1,0 +1,26 @@
+#editor {
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+
+#editorOnglets {
+    height: 18px;
+    border: 1px solid black;
+}
+
+.ongletEditeur {
+    background-color: #CCE7FF; 
+    cursor: pointer;
+    margin-right: 2px;
+    padding-left: 2px;
+}
+
+.sel {
+    background-color: #52AEFF;
+}
+
+.redClose {
+    background-color: #FF5257;
+    padding-right: 2px;
+}

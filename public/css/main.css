@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+table tr td {
+    vertical-align: top;
+}
+
+.fileList {
+    padding-right: 10px;
+    width: 236px;
+    overflow: scroll;
+}
+
+.fileListRecherche {
+    height: 20px;
+}
+
+.fileListDelete {
+    font-size: xx-small;
+    color: red;
+}
+
+.fileListCreate {
+    font-size: xx-small;
+    color: green;
+}
+
+.divFuncFileList {
+    font-size: x-small;
+}
+
+#log {
+    height: 195px;
+    width: 236px;
+    background-color: #e6f9db;
+    /*color: white;*/
+    font-family: monospace;
+    font-size: xx-small;
+    padding: 2px;    
+    overflow: auto;
+}
+

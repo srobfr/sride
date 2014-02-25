@@ -1,0 +1,31 @@
+SrIde a pour objectif d'être un éditeur de code hébergé, simple et facile à installer
+sur un serveur web doté de PHP.
+
+Ce logiciel est en version ALPHA et contient probablement de nombreux bugs et failles de sécurité.
+Utilisez-le à vos risques et périls.
+
+N'hésitez pas à me faire part de vos remarques et idées : srobzz.sr@gmail.com
+
+Utilisez un navigateur récent (Chrome, firefox...).
+Ce logiciel a été développé avec Chrome.
+
+****** Aide rapide *******
+
+- Pour sauvegarder un fichier en cours d'édition : CTRL+S
+
+- Pour créer un nouveau fichier dans un dossier :
+    - Cochez la case du dossier dans le quel vous voulez créer le fichier, puis cliquez sur "Nouveau"
+    - Saisissez le nom de votre fichier, précédé d'un '*' si vous voulez créer un dossier
+
+- Pour ouvrir / fermer un dossier, cliquez sur son nom dans la liste à gauche.
+
+- Pour ouvrir un fichier, cliquez sur son nom dans la liste à gauche.
+
+- Pour fermer un fichier ouvert, cliquez sur les deux dernières lettres de son nom (en rouge), ci dessus.
+
+- Pour passer d'un fichier ouvert à un autre, cliquez sur son nom (en bleu), ci dessus.
+
+- Pour supprimer un (ou plusieurs) fichier ou dossier, cochez les cases dans la liste à gauche, cliquez sur Supprimer (en haut à gauche),
+  puis validez en cliquant sur la confirmation (dans la console en bas à gauche).
+
+Vous pourrez trouver une aide en ligne plus complète en cliquant sur le liens "Aide" dans la console (en bas à droite).
